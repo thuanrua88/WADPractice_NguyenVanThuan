@@ -1,0 +1,20 @@
+[
+  {
+    "ID": 1,
+    "Name": "Car",
+    "Price": 134.6,
+    "Image": "https://specials-images.forbesimg.com/imageserve/5d3703e2f1176b00089761a6/960x0.jpg?cropX1=836&cropX2=5396&cropY1=799&cropY2=3364"
+  },
+  {
+    "ID": 2,
+    "Name": "Planes",
+    "Price": 1234.6,
+    "Image": "https://assets.newatlas.com/dims4/default/2a36987/2147483647/strip/true/crop/1578x1052+0+14/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fcloud-streamer-2.jpg"
+  },
+  {
+    "ID": 1,
+    "Name": "Bike",
+    "Price": 14.6,
+    "Image": "https://cdn.shopify.com/s/files/1/1772/1703/t/16/assets/cowboy-3-absolute-black_w_6.png?v=15537051773153245689"
+  }
+]
